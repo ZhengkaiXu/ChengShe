@@ -14,6 +14,7 @@ int main() {
             }
         }
     }
+
     cout << "10!=" << mul << endl; // 显示运算结果
     return 0;
 }
