@@ -24,6 +24,7 @@ int main() {
             g = 1; // 让有解标志置1
         }
     }
+
     if (g != 1) { // 则输出无解信息
         cout << "Can't found!" << endl;
     }
