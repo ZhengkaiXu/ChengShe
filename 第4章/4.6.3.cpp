@@ -16,6 +16,5 @@ int main() {
     if (g != 1) {
         cout << "Can't found!" << endl;
     }
-
     return 0;
 }
